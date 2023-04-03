@@ -27,8 +27,8 @@ require (
 	github.com/suborbital/grav v0.4.1 // indirect
 	github.com/suborbital/vektor v0.5.1-0.20211112160641-0b7e68b46795 // indirect
 	github.com/wasmerio/wasmer-go v1.0.4 // indirect
-	golang.org/x/crypto v0.0.0-20211117183948-ae814b36b871 // indirect
-	golang.org/x/net v0.0.0-20211201190559-0a0e4e1bb54c // indirect
+	golang.org/x/crypto v0.1.0 // indirect
+	golang.org/x/net v0.1.0 // indirect
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/text v0.4.0 // indirect
 )
